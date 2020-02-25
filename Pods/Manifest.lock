@@ -1,0 +1,119 @@
+PODS:
+  - BaiduMapKit (4.0.0)
+  - BMKLocationKit (1.1.0)
+  - Bugly (2.5.0)
+  - IQKeyboardManager (6.0.2)
+  - LGXLayout (1.0.0):
+    - Masonry
+  - Masonry (1.1.0)
+  - MLLabel (1.10.5)
+  - MOBFoundation (2.2.19)
+  - PonyDebugger (0.4.3):
+    - SocketRocket
+  - ReactiveCocoa (2.5):
+    - ReactiveCocoa/UI (= 2.5)
+  - ReactiveCocoa/Core (2.5):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.5)
+  - ReactiveCocoa/UI (2.5):
+    - ReactiveCocoa/Core
+  - ShareSDK3 (3.5.7):
+    - MOBFoundation
+    - ShareSDK3/ShareSDK (= 3.5.7)
+  - ShareSDK3/ShareSDK (3.5.7):
+    - MOBFoundation
+  - ShareSDK3/ShareSDKConfigurationFile (3.5.7):
+    - MOBFoundation
+  - ShareSDK3/ShareSDKExtension (3.5.7):
+    - MOBFoundation
+  - ShareSDK3/ShareSDKPlatforms/QQ (3.5.7):
+    - MOBFoundation
+  - ShareSDK3/ShareSDKPlatforms/SinaWeibo (3.5.7):
+    - MOBFoundation
+  - ShareSDK3/ShareSDKPlatforms/WeChat (3.5.7):
+    - MOBFoundation
+  - ShareSDK3/ShareSDKUI (3.5.7):
+    - MOBFoundation
+  - SocketRocket (0.5.1)
+  - ThinkVerb (1.0.2)
+  - TYAlertController (1.2.0)
+  - YHPhotoBrowser (0.0.9):
+    - YYWebImage
+  - YYCache (1.0.4)
+  - YYImage (1.0.4):
+    - YYImage/Core (= 1.0.4)
+  - YYImage/Core (1.0.4)
+  - YYText (1.0.7)
+  - YYWebImage (1.0.5):
+    - YYCache
+    - YYImage
+
+DEPENDENCIES:
+  - BaiduMapKit
+  - BMKLocationKit
+  - Bugly
+  - IQKeyboardManager
+  - LGXLayout
+  - MLLabel
+  - MOBFoundation (~> 2.2.3)
+  - PonyDebugger (= 0.4.3)
+  - ReactiveCocoa (= 2.5)
+  - ShareSDK3 (~> 3.5.2)
+  - ShareSDK3/ShareSDKConfigurationFile
+  - ShareSDK3/ShareSDKExtension
+  - ShareSDK3/ShareSDKPlatforms/QQ
+  - ShareSDK3/ShareSDKPlatforms/SinaWeibo
+  - ShareSDK3/ShareSDKPlatforms/WeChat
+  - ShareSDK3/ShareSDKUI
+  - ThinkVerb
+  - TYAlertController
+  - YHPhotoBrowser (~> 0.0.5)
+  - YYText
+  - YYWebImage
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - BaiduMapKit
+    - BMKLocationKit
+    - Bugly
+    - IQKeyboardManager
+    - LGXLayout
+    - Masonry
+    - MLLabel
+    - MOBFoundation
+    - PonyDebugger
+    - ReactiveCocoa
+    - ShareSDK3
+    - SocketRocket
+    - ThinkVerb
+    - TYAlertController
+    - YHPhotoBrowser
+    - YYCache
+    - YYImage
+    - YYText
+    - YYWebImage
+
+SPEC CHECKSUMS:
+  BaiduMapKit: 8fa2eb2ca81b92b740b19d9ff3b59d751d3e92e1
+  BMKLocationKit: 1dae7e092b1f8bf808370bbbcbd23bc4445108d9
+  Bugly: 3ca9f255c01025582df26f9222893b383c7e4b4e
+  IQKeyboardManager: c49d59e358aeeffaa0280aa305093c2b194d2607
+  LGXLayout: c4756241405146dbd0be48cc1b5dabd4298f68ca
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MLLabel: d76124055a2205e7f76878e62cd06ba925ba0c97
+  MOBFoundation: e962b2aee79e2b8f626e2d30c2f23e9f13e5331e
+  PonyDebugger: 52f96f501df018dc2b7153fa18464b82553e700c
+  ReactiveCocoa: e2db045570aa97c695e7aa97c2bcab222ae51f4a
+  ShareSDK3: 47f50f8217b9542255c573c8ac4392af1c50b0ed
+  SocketRocket: d57c7159b83c3c6655745cd15302aa24b6bae531
+  ThinkVerb: cad1e6d180cbec63e39e4307bd79215555073ad4
+  TYAlertController: c121090edb0bea7426f987da94cdddd81eef4231
+  YHPhotoBrowser: a5a953ddc8b6b4a289b2c96c8e1bfa3f31e6e9fe
+  YYCache: 8105b6638f5e849296c71f331ff83891a4942952
+  YYImage: 1e1b62a9997399593e4b9c4ecfbbabbf1d3f3b54
+  YYText: 5c461d709e24d55a182d1441c41dc639a18a4849
+  YYWebImage: 5f7f36aee2ae293f016d418c7d6ba05c4863e928
+
+PODFILE CHECKSUM: 5403b7873b0dd5672a3a14aa31c37c7803d6d77f
+
+COCOAPODS: 1.5.0

@@ -1,0 +1,63 @@
+//
+//  YanGang-Prefix.pch
+//  YanGang
+//
+//  Created by 汪伟 on 2018/11/6.
+//  Copyright © 2018年 Guangzhou YouPin Trade Co.,Ltd. All rights reserved.
+//
+
+#ifndef __IPHONE_7_0
+
+#endif
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#ifdef __OBJC__
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "WWDefines.h"
+#import "ColorDefines.h"
+#import <ReactiveCocoa.h>
+#import "WWPublicMethod.h"
+#import "WWPhoneInfo.h"
+#import "GCDObjC.h"
+#import "MyMD5.h"
+#import "UUIDManager.h"
+#import "TCAlertView.h"
+#import "TargetEngine.h"
+#import "NSObject+PropertyListing.h"
+#import "TCUserManager.h"
+#import "LGXHudManager.h"
+#import "UIButton+common.h"
+#import "UIView+animations.h"
+#import "UIView+autolayout.h"
+#import "UIButton+BGColor.h"
+#import "UIImage+custom.h"
+#import "UIColor+custom.h"
+#import "UIFont+custom.h"
+#import "UIView+badge.h"
+#import <LGXAutoLayout.h>
+#import "LGXDatePicker.h"
+#import "TCNewAlertView.h"
+#import <IQKeyboardManager.h>
+
+#import <BaiduMapAPI_Base/BMKBaseComponent.h>//引入base相关所有的头文件
+#import <BaiduMapAPI_Map/BMKMapComponent.h>//引入地图功能所有的头文件
+#import <BaiduMapAPI_Search/BMKSearchComponent.h>//引入检索功能所有的头文件
+#import <BaiduMapAPI_Cloud/BMKCloudSearchComponent.h>//引入云检索功能所有的头文件
+#import <BaiduMapAPI_Location/BMKLocationComponent.h>//引入定位功能所有的头文件
+#import <BaiduMapAPI_Utils/BMKUtilsComponent.h>//引入计算工具所有的头文件
+#import <BaiduMapAPI_Radar/BMKRadarComponent.h>//引入周边雷达功能所有的头文件
+#import <BaiduMapAPI_Map/BMKMapView.h>//只引入所需的单个头文件
+#import <BMKLocationkit/BMKLocationComponent.h>
+#import <BMKLocationKit/BMKLocationAuth.h>
+
+#import <HikVideoPlayer/HVPPlayer.h>
+#import <HikVideoPlayer/HVPError.h>
+
+
+
+
+
+#endif

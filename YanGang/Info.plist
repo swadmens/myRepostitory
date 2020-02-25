@@ -4,6 +4,8 @@
 <dict>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleDisplayName</key>
+	<string>$(PRODUCT_NAME)</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -20,6 +22,14 @@
 	<string>1</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>我们需要通过您的地理位置信息获取您周边的相关数据？</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>我们需要使用您的麦克风进行语音对讲？</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>我们需要使用您的相册保存图片和录像？</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>我们需要使用您的相册保存图片和录像？</string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
